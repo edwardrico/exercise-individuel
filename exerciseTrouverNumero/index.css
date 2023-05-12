@@ -1,0 +1,19 @@
+body {
+    background-color: gainsboro;
+}
+
+h1 {
+
+    font-family: sacramento;
+    background-size: 0,9;
+    background-color:pink ;
+    text-align: left;
+    color:orangered;
+}
+
+h2 {
+    background-color: black;
+    text-align: center;
+    text-decoration:cornsilk;
+    color: gainsboro;
+}
